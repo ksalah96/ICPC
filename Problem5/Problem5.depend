@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702368050 source:/home/khaled/Documents/ICPC/Problem5/main.cpp
+	<iostream>
+	<iomanip>
+
