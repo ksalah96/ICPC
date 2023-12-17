@@ -1,0 +1,3 @@
+Problem 14: Char
+
+Given a letter X. If the letter is lowercase print the letter after converting it from lowercase letter to uppercase letter. Otherwise print the letter after converting it from uppercase letter to lowercase letter

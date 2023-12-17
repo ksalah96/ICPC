@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702631089 source:/home/khaled/Documents/ICPC/Problem21/main.cpp
+	<iostream>
+	<math.h>
+
