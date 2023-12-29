@@ -1,0 +1,2 @@
+Problem 27: Hard Compare
+Given 4 numbers A,B,C and D. If AB > CD print "YES" otherwise, print "NO".
