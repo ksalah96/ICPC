@@ -1,0 +1,5 @@
+I. Palindrome
+
+Given a number N Print 2 lines that contain the following respectively:
+-Print N in a reversed order and not leading zeroes.
+-If N is a palindrome number print "YES" otherwise, print "NO. 
