@@ -6,28 +6,15 @@ int main()
 {
     int l1, r1, l2, r2;
     cin >> l1 >> r1 >> l2 >> r2;
-    if(l1 >= l2 && l1 <= r2)
+    if((l2 > r1 && r2 > r1) || (l2 < l1 && r2 < l1))
+       cout << -1;
+       else
     {
-        cout << l1;
+        int x,z;
+        x=max(l1,l2);
+        z= min(r1,r2);
+        cout << x << " " << z;
     }
 
-    else if(r1 >= l2 && r1 <= r2)
-    {
-        cout << r1;
-    }
-
-    else if(l2 >= l1 && l2 <= r1)
-    {
-        cout << l2;
-    }
-
-    else if(r2 >= l1 && r2 <= r1)
-    {
-        cout << r2;
-    }
-    else
-    {
-        cout << "-1";
-    }
     return 0;
 }

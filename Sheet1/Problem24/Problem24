@@ -1,0 +1,5 @@
+24. Two intervals
+Given the boundaries of 2 intervals. Print the boundaries of their intersection.
+
+Note: Boundaries mean the two ends of an interval which are the starting number and the ending number.
+

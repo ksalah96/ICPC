@@ -5,11 +5,10 @@
 
 	    int main()
 	    {
-	        long long a, b , c, d, l, o ;
+	        long long a, b , c, d;
 	        cin >> a >> b >> c >> d;
-	        l = pow(a,b);
-	        o = pow(c,d);
-	        if(l > o)
+
+	        if(b * log(a) > d * log(c))
 	        {
 	            cout << "YES";
 	        }
