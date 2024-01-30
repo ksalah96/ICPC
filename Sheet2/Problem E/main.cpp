@@ -1,16 +1,20 @@
 #include <iostream>
-#include <algorithm>
 
 using namespace std;
 
 int main()
 {
-    int n, i;
+    int n, i, maxx = 0;
     cin >> n;
     for (int a = 1; a <= n; a++)
     {
         cin >> i;
-        cout << max(i);
+        if(i > maxx)
+        {
+            maxx = i;
+        }
+
     }
+    cout << maxx << endl;
     return 0;
 }
