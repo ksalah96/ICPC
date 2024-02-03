@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706955001 source:/home/khaled/Documents/ICPC/Sheet2/Problem X/main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,2 @@
+Z. Three Numbers
+Given two numbers K and S. Determine how many different values of X,Y and Z such that (0≤X,Y,Z≤K) and X+Y+Z=S.
