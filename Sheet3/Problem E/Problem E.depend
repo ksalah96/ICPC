@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707049592 source:/home/khaled/Documents/ICPC/Sheet3/Problem E/main.cpp
+	<iostream>
+	<limits.h>
+

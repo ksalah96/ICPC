@@ -1,0 +1,7 @@
+C. Replacement
+Given a number N and an array A of N numbers. Print the array after doing the following operations:
+
+    Replace every positive number by 1.
+    Replace every negative number by 2. 
+
+

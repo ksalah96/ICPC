@@ -1,0 +1,4 @@
+B. Searching
+Given a number N and an array A of N numbers. Determine if the number X exists in array A or not and print its position (0-index).
+
+Note: X may be found once or more than once and may not be found. 
