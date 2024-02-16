@@ -1,0 +1,16 @@
+Q. Count Subarrays
+A sub-array of array is an array composed from a contiguous block of the original array's elements.
+
+In other words A sub-array A[i-j], where (1 ≤ i ≤ j ≤ N), is a sequence of integers Ai, Ai + 1, ..., Aj.
+
+For Example :
+
+IF array = [1,6,3,7] then the subarrays are [1] , [6] , [3] , [7] , [1,6] , [6,3],[3,7], [1,6,3] , [6,3,7] , [1,6,3,7] .
+
+Something like [1,3] would not be a sub-array as it's not a contiguous subsection of the original array.
+
+Given a number N and an array A of N numbers. Print the number of sub-arrays which are non-decreasing.
+
+Note:
+
+    A sub-array A[i-j] is non-decreasing if (Ai  ≤  Ai + 1  ≤  Ai + 2  ≤  ...  ≤  Aj). 

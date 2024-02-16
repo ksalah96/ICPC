@@ -1,0 +1,2 @@
+V. Frequency Array
+Given 2 numbers N, M and an array A of N numbers. For every number from 1 to M, print how many times this number appears in this array.

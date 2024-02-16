@@ -1,12 +1,11 @@
     #include <iostream>
-    #include <limits.h>
     using namespace std;
 
     int main()
     {
-        long long n, cntr = 0;
+        int n, cntr = 0;
         cin >> n;
-        long long arr[n];
+        int arr[n];
         for(int i = 0; i < n; i++)
         {
             cin >> arr[i];
@@ -19,7 +18,6 @@
             {
                 cntr = i;
                 minn = arr[i];
-
             }
         }
         cout << minn << " " <<cntr + 1;

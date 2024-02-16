@@ -1,0 +1,17 @@
+O. Fibonacci
+time limit per test
+1 second
+memory limit per test
+256 megabytes
+input
+standard input
+output
+standard output
+
+Given a number N. Print the Fibonacci number of N.
+
+Note: In order to create the Fibonacci sequence use the following function:
+
+    fib(1) = 0.
+    fib(2) = 1.
+    fib(n) = fib(n - 1) + fib(n - 2). 

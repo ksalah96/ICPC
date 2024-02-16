@@ -1,0 +1,13 @@
+P. Minimize Number
+time limit per test
+1 second
+memory limit per test
+256 megabytes
+input
+standard input
+output
+standard output
+
+Given a number N and an array A of N positive numbers. Print maximum possible operations that can be performed.
+
+The operation is as follows: if all numbers are even then divide each of them by 2 otherwise, you can not perform any more operations.

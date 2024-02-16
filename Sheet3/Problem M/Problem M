@@ -1,0 +1,6 @@
+M. Replace MinMax
+Given a number N and an array A of N numbers. Print the array after doing the following operations:
+
+    Find minimum number in these numbers.
+    Find maximum number in these numbers.
+    Swap minimum number with maximum number. 

@@ -1,0 +1,4 @@
+J. Lucky Array
+Given a number N and an array A of N numbers. Determine if the array is lucky or not.
+
+Note: the array is lucky if the frequency (number of occurrence) of the minimum element is odd.

@@ -1,0 +1,6 @@
+X. 8 Neighbors
+Given two numbers N and M, a 2D array A of size N * M which contains 'x' or '.' only and two numbers X, Y which donates a cell position in A such that X is the row number and Y is the column number.
+
+Determine whether all neighbors of the given cell are 'x' or not.
+
+Note: The neighbor cell is any cell that shares an edge or a corner and it should be inside 2D array.

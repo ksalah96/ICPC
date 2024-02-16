@@ -1,0 +1,5 @@
+Z. Binary Search
+Given 2 numbers N and Q, array A of N numbers and Q queries each one contains a number X
+
+For each query print a single line that contains "found" if the number X
+exists in array A otherwise, print "not found".
